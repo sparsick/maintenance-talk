@@ -1,0 +1,3 @@
+[submodule "maintenance-demo"]
+	path = maintenance-demo
+	url = git@github.com:sparsick/maintenance-demo.git
