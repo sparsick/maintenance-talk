@@ -1,6 +1,6 @@
 maintenance-talk
 ====================
-You can find here the slides and the sample code of my talk "Raus aus der Wartungshölle ... zumindest ein bißchen" that I presented on IT Tage 2022 Remote at 13rd December 2022.
+You can find here the slides and the sample code of my talk "Raus aus der Wartungshölle ... zumindest ein bißchen" that I presented on OOP 2023 Remote at 8th February 2023.
 
 The demo application is a past version of Spring's Pet Clinic and can be found in folder 'maintenance-demo'.
 
