@@ -18,7 +18,7 @@ Furthermore, there exists a global sample config for a self-hosted Renovate
 - [Spotless Maven Plugin](https://github.com/diffplug/spotless/blob/main/plugin-maven/README.md)
 - [Modernize Maven Plugin](https://github.com/gaul/modernizer-maven-plugin)
 - [Policeman's Forbidden API Checker](https://github.com/policeman-tools/forbidden-apis)
-- [DepClean](https://castor-software.github.io/depclean/)
+- [DepClean](https://github.com/ASSERT-KTH/depclean)
 - [OWASP Dependency Check Maven Plugin](https://jeremylong.github.io/DependencyCheck/dependency-check-maven/index.html)
 - [Trivy](https://aquasecurity.github.io/trivy/)
 - [Docker Compose](https://docs.docker.com/compose/)
