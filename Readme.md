@@ -1,6 +1,6 @@
 maintenance-talk
 ====================
-You can find here the slides and the sample code of my talk "Raus aus der Wartungshölle ... zumindest ein bißchen" that I presented on Java Forum Stuttgart at 13rd July 2023.
+You can find here the slides and the sample code of my talk "Raus aus der Wartungshölle ... zumindest ein bißchen" that I presented on NAVIGATE at 12th March 2024.
 
 The demo application is a past version of Spring's Pet Clinic and can be found in folder 'maintenance-demo'.
 
