@@ -1,6 +1,6 @@
-maintenance-talk
+maihttps://containers.dev/ntenance-talk
 ====================
-You can find here the slides and the sample code of my talk "Raus aus der Wartungshölle ... zumindest ein bißchen" that I presented on NAVIGATE at 12th March 2024.
+You can find here the slides and the sample code of my talk "Raus aus der Wartungshölle ... zumindest ein bißchen" that I presented on Tech Camp in Hamburg at 19th June 2024.
 
 The demo application is a past version of Spring's Pet Clinic and can be found in folder 'maintenance-demo'.
 
@@ -18,11 +18,11 @@ Furthermore, there exists a global sample config for a self-hosted Renovate
 - [Spotless Maven Plugin](https://github.com/diffplug/spotless/blob/main/plugin-maven/README.md)
 - [Modernize Maven Plugin](https://github.com/gaul/modernizer-maven-plugin)
 - [Policeman's Forbidden API Checker](https://github.com/policeman-tools/forbidden-apis)
-- [DepClean](https://github.com/ASSERT-KTH/depclean)
 - [OWASP Dependency Check Maven Plugin](https://jeremylong.github.io/DependencyCheck/dependency-check-maven/index.html)
 - [Trivy](https://aquasecurity.github.io/trivy/)
 - [Docker Compose](https://docs.docker.com/compose/)
 - [Spring Boot Maven Plugin](https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/)
+- [Development Containers](https://containers.dev/)
 - [SDKMAN!](https://sdkman.io/)
 - [EditorConfig](https://editorconfig.org/)
 
