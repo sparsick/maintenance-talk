@@ -1,4 +1,4 @@
-maihttps://containers.dev/ntenance-talk
+maintenance-talk
 ====================
 You can find here the slides and the sample code of my talk "Raus aus der Wartungshölle ... zumindest ein bißchen" that I presented on Tech Camp in Hamburg at 19th June 2024.
 
